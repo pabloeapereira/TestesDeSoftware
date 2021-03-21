@@ -1,5 +1,5 @@
-﻿using System;
-using FluentValidation.Results;
+﻿using FluentValidation.Results;
+using System;
 
 namespace Features.Core
 {

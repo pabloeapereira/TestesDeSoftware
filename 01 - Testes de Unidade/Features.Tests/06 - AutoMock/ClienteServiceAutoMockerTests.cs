@@ -1,8 +1,8 @@
 ﻿using Features.Clientes;
 using MediatR;
 using Moq;
-using System.Linq;
 using Moq.AutoMock;
+using System.Linq;
 using Xunit;
 
 namespace Features.Tests

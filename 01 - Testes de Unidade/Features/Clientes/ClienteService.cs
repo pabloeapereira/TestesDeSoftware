@@ -1,6 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using MediatR;
+using System.Collections.Generic;
 using System.Linq;
-using MediatR;
 
 namespace Features.Clientes
 {

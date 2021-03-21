@@ -1,6 +1,6 @@
-﻿using System;
-using Features.Core;
+﻿using Features.Core;
 using FluentValidation;
+using System;
 
 namespace Features.Clientes
 {

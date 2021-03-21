@@ -2,7 +2,6 @@
 using MediatR;
 using Moq;
 using System.Linq;
-using Moq.AutoMock;
 using Xunit;
 
 namespace Features.Tests
